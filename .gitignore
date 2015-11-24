@@ -1,3 +1,7 @@
 #untrack **.out files
-
+PCP_PROJECT*
 *.out
+.DS_Store
+foto_pcp
+aula2*
+/aula2/GUIFormExamples/nbproject/private/
