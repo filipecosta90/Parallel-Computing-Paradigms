@@ -1,5 +1,14 @@
 #include <mpi.h>
 #include <stdio.h>
+#include <mpi.h>
+#include <iostream>
+#include <stdlib.h>
+#include <math.h>
+#include <stdio.h>
+
+#include "PrimeCalc.cpp"
+#include "PrimeServer.cpp"
+#include "PrimeClientAlunos.cpp"
 
 int main( int argc, char *argv[]) {
   int rank, msg;
